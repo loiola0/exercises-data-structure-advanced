@@ -1,2 +1,2 @@
 # exercises-data-structure-advanced
-Data Structure Advanced of university exercises
+Data Structure Advanced of university exercises.
